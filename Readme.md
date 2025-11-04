@@ -7,4 +7,6 @@ An overview of the stateflow representing the logic of the traffic light is prov
 
 
 The GUI designed is as follows
+
+
 ![GUI](app_.png)
